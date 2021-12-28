@@ -1,0 +1,5 @@
+﻿  lab 3.1.cpp
+C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 3.1\lab 3.1\lab 3.1.cpp(20,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 3.1\lab 3.1\lab 3.1.cpp(76,3): warning C4145: '==': relational expression as switch expression; possible confusion with '='
+C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 3.1\lab 3.1\lab 3.1.cpp(86,3): warning C4145: '==': relational expression as switch expression; possible confusion with '='
+  lab 3.1.vcxproj -> C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 3.1\Debug\lab 3.1.exe

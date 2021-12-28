@@ -1,0 +1,5 @@
+﻿  lab 4.1.cpp
+C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 4.1\lab 4.1\lab 4.1.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 4.1\lab 4.1\lab 4.1.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 4.1\lab 4.1\lab 4.1.cpp(120,6): warning C4101: 'key': unreferenced local variable
+  lab 4.1.vcxproj -> C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 4.1\Debug\lab 4.1.exe
