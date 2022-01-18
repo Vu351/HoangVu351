@@ -1,2 +1,3 @@
 ﻿  lab 4.2.cpp
-  lab 4.2.vcxproj -> C:\Users\admin\source\repos\Vu351\Vu-Hoang\Vu_Hoang_351\lab 4.2\Debug\lab 4.2.exe
+C:\Users\admin\OneDrive\Desktop\HoangVu351\lab4.2\lab 4.2\lab 4.2.cpp(79,10): warning C4101: 'retult': unreferenced local variable
+  lab 4.2.vcxproj -> C:\Users\admin\OneDrive\Desktop\HoangVu351\lab4.2\Debug\lab 4.2.exe
